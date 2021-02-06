@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #cac1c173;
+}
+header{
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
